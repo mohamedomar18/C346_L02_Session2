@@ -3,4 +3,16 @@
     <string name="name">Name:</string>
     <string name="password">Password:</string>
     <string name="login">Login</string>
+    <string name="registration_form">Registration Form</string>
+    <string name="sub_title">Please input your information accurately</string>
+    <string name="full_name">Full Name:</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="gender">Gender:</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="student_id">Student ID:</string>
+    <string name="school">School:</string>
+    <string name="email">Email:</string>
+    <string name="phone">Phone:</string>
 </resources>
